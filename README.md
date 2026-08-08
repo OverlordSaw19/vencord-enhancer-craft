@@ -36,4 +36,4 @@ Next-generation **Vencord Enhancer Craft** organization suite delivering smart s
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion. 
+> This repository is provided for educational and utility purposes only. Use at your own discretion.  
